@@ -1,2 +1,2 @@
 # djCloud
-Django and python3 based personal cloud solution
+Django and python3 based cloud solution
